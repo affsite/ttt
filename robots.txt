@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /undefined
+Disallow: /cdn-cgi
+Disallow: /[prefix]
+
+Sitemap: https://ttt/sitemap.xml
